@@ -20,7 +20,9 @@ This involved defining tables, columns, data types, and constraints in an SQL en
 Following the Mapping finalization, we translated it into a physical database schema on a SQL server by T-SQL. This involved creating tables, defining columns, data types, constraints, and ensuring data normalization and integrity.
 [Database Creation](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/blob/869d21744cf4fa372dc49922a90a9064354803c9/tables.sql) <br/>
 
-Stored Procedures Development: We developed stored procedures to automate core system operations such as exam creation, answer submission, exam correction, and report generation. Special procedures were designed for generating random exams, collecting student answers, and exam correction.
+### Stored Procedures Development: 
+We developed stored procedures to automate core system operations such as exam creation, answer submission, exam correction, and report generation. 
+[Procs](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/tree/538c94b00cb6559531987edfb460194e8cc2bd99/Exam%20Procedure)
 CRUD Operations: The system supports essential CRUD operations for managing student, course, instructor, and exam-related data. This functionality ensures efficient data management and manipulation.
-Exam Management: EDU HUB automates exam generation, stores student responses, and calculates grades. This feature streamlines the examination process and enhances efficiency.
+[Procs](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/blob/538c94b00cb6559531987edfb460194e8cc2bd99/ALL%20STORED%20PROSEDURE%20QUERY.sql)
 Reporting and Dashboarding: Leveraging Power BI and SSRS, we built comprehensive reports and interactive dashboards to visualize and analyze key metrics and data trends. These tools provide valuable insights for informed decision-making.
