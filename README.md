@@ -1,7 +1,9 @@
 # EDU-HUB-System ITI-Graduation-Project
 
 ## Description:
-EDU HUB is a comprehensive business intelligence system designed to streamline and optimize educational processes within an educational hub environment. This system efficiently stores and manages a variety of critical data including information about students, instructors, courses, enrollments, branches, exams, and feedback.
+In today's digital era, online examination systems have become a crucial component of modern education. With the rise of e-learning platforms and the increasing demand for flexibility in education, institutions are rapidly shifting from traditional paper-based examinations to automated systems. These systems offer numerous benefits, including real-time assessment, reduced administrative workload, enhanced accessibility, and secure exam environments.
+This project, titled "Examination System for EDU HUB Platform" was developed as part of the graduation project at the Information Technology Institute (ITI). The primary objective of this project was to create an automated examination system to serve the EDU HUB platform, providing an efficient and scalable solution for managing online exams and evaluations.
+
 
 ## Project Life Cycle
 ![](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/blob/3baa7784a5a5f37ff381a93c85a322f958312fe0/Project%20life%20Cycle.png)
