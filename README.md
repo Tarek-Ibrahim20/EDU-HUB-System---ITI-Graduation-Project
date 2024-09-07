@@ -33,6 +33,13 @@ We developed stored procedures to automate core system operations such as exam c
 The system supports essential CRUD operations for managing student, course, instructor, and exam-related data. This functionality ensures efficient data management and manipulation.
 [Procs](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/blob/538c94b00cb6559531987edfb460194e8cc2bd99/ALL%20STORED%20PROSEDURE%20QUERY.sql) <br/>
 
+### Data Collection:
+After the core system was in place, data collection became the focus. This involved gathering data from multiple sources to populate the system, including student information, course details, and exam content. The process ensured that the system was populated with real-world data, making it functional and ready for testing. Data collection was vital for:
+•	Testing the system’s functionality and performance under real-world conditions.
+•	Validating the stored procedures and ensuring that the system could handle the expected data load.
+•	Preparing the system for generating meaningful reports and dashboards.
+[Data Sources]()
+
 ## Reporting and Dashboarding:
 
 ### SSRS Reports:
