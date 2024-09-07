@@ -3,6 +3,9 @@
 ## Description:
 EDU HUB is a comprehensive business intelligence system designed to streamline and optimize educational processes within an educational hub environment. This system efficiently stores and manages a variety of critical data including information about students, instructors, courses, enrollments, branches, exams, and feedback.
 
+## Project Life Cycle
+![](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/blob/3baa7784a5a5f37ff381a93c85a322f958312fe0/Project%20life%20Cycle.png)
+
 ## Key Features:
 
 ### Business Requirements Analysis: 
@@ -34,11 +37,11 @@ The system supports essential CRUD operations for managing student, course, inst
 we used SSRS to present the courses for each department, instructors of courses, Students for each branch, and exam generartion and answers.
 [SSRS](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/tree/cf3ccd2dfe611a4f21f07eb0af69cf30525bd68b/SSRS%20Reports) <br/>
 
-### Power BI Dashboards
+### Power BI Dashboards:
 [Power BI Dashbords](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/tree/c4cb2a22fb07659a0661b1a6817d82ef3940f97b/Power%20BI%20Dashboards) <br/>
 
 ### Project Performance Tracking:
-[](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/tree/63cc56ead6a8eed88fccc62f618346f93c687d25/Project%20Performance%20Tracker) <br/>
+[Project Performnace Tracking](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/tree/63cc56ead6a8eed88fccc62f618346f93c687d25/Project%20Performance%20Tracker) <br/>
 
 
 
