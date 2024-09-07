@@ -27,8 +27,16 @@ We developed stored procedures to automate core system operations such as exam c
 ### CRUD Operations: The system supports essential CRUD operations for managing student, course, instructor, and exam-related data. This functionality ensures efficient data management and manipulation.
 [Procs](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/blob/538c94b00cb6559531987edfb460194e8cc2bd99/ALL%20STORED%20PROSEDURE%20QUERY.sql) <br/>
 
-### Reporting and Dashboarding:
+## Reporting and Dashboarding:
 
-### SSRS Reports
+### SSRS Reports:
 we used SSRS to present the courses for each department, instructors of courses, Students for each branch, and exam generartion and answers.
 [SSRS](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/tree/cf3ccd2dfe611a4f21f07eb0af69cf30525bd68b/SSRS%20Reports) <br/>
+
+### Power BI Dashboards
+[Power BI Dashbords](https://github.com/Tarek-Ibrahim20/EDU-HUB-System---ITI-Graduation-Project/tree/c4cb2a22fb07659a0661b1a6817d82ef3940f97b/Power%20BI%20Dashboards) <br/>
+
+### Project Performance Tracking:
+
+
+
